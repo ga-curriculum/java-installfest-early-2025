@@ -5,7 +5,7 @@
 
 ## What you need to begin *(you must read this, do not skip this, this is important)*
 
-- ***A device running Ubuntu 22.04 LTS (Jammy Jellyfish).*** Other versions of Ubuntu and flavors of Linux may be compatible with this Installfest, but they're not recommended.```
+- ***A device running Ubuntu 22.04 LTS (Jammy Jellyfish).*** Other versions of Ubuntu and flavors of Linux may be compatible with this Installfest, but they're not recommended.
 - At least 10GB of free hard drive space.
 - At least 8GB of RAM. 16GB of RAM or more is preferable and will improve your learning experience.
 - A user account with administrative privilege to your local installation of Ubuntu.
