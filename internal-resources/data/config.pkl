@@ -10,9 +10,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Module Name]"
+  friendlyName = "Java Installfest"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk"
+  name = "java-installfest-mid-2024"
   type = "Lesson"
 }
 
