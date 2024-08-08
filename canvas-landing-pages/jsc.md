@@ -1,12 +1,20 @@
-# ![[tktk Module Name]](../assets/java-install-fest-header.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Java Installfest</span>
+</h1>
 
 ## About
 
-This module provides the specific guide for installing all tools to use Java and setup your workspace. 
+Welcome to Installfest, where we'll set up the development environment you'll use for this course! This guide is designed to walk you through each installation step, ensuring you don't miss anything crucial. The Installfest documents are organized by operating system below. Make sure you only follow one path.
 
 ## Content
 
-| Lesson | Learning Objectives |
-| ------ |:------ |
-| [The Installfest Journey](../the-installfest-journey/README.md)| Getting started with this guide. |
-| [Setting Up Your Workspace](../setting-up-your-workspace/README.md) | Installfest guide to setup your workspace. |
+| Lesson | Skills |
+| ------ | ------ |
+| [macOS](../mac-os/README.md)    | Configuring a development environment in macOS.                     |
+| [Windows](../windows/README.md) | Configuring a development environment in Windows 10 and Windows 11. |
+| [Ubuntu](../ubuntu/README.md)   | Configuring a development environment in Ubuntu 22.04 LTS.          |
+
+## References
+
+📖 [Reference Materials](../references/README.md)

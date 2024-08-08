@@ -1,0 +1,145 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "[tktk Module Name]",
+    "name": "tktk",
+    "type": "Lesson"
+  },
+  "courses": [
+    {
+      "name": "jsc",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "macOS",
+          "dirName": "mac-os",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Windows",
+          "dirName": "windows",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Ubuntu",
+          "dirName": "ubuntu",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": false,
+      "isHeaderNavSettingsShown": true,
+      "isFooterShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": false,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false
+    },
+    {
+      "name": "jda",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "macOS",
+          "dirName": "mac-os",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Windows",
+          "dirName": "windows",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Ubuntu",
+          "dirName": "ubuntu",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": false,
+      "isHeaderNavSettingsShown": true,
+      "isFooterShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": false,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false
+    },
+    {
+      "name": "fallback",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "macOS",
+          "dirName": "mac-os",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Windows",
+          "dirName": "windows",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Ubuntu",
+          "dirName": "ubuntu",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": false,
+      "isHeaderNavSettingsShown": true,
+      "isFooterShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": false,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false
+    }
+  ]
+}
