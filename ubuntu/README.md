@@ -21,7 +21,7 @@ You'll install the following tools and software:
 
 - [Git](#git)
 - [GitHub CLI](#github-cli)
-- [JDK 21](#jdk-21)
+- [JDK 17](#jdk-17)
 - [IntelliJ CE](#intellij-idea-community-edition)
 
 ## Troubleshooting
@@ -182,16 +182,16 @@ You'll encounter a series of prompts to complete your login. Follow these steps:
 
 You should now be able to interact with General Assembly's GitHub Enterprise from the command line!
 
-## JDK 21
+## JDK 17
 
-We'll get JDK 21 LTS from Adoptium. This will allow you to run and compile Java applications on your device. Install it with this command in your terminal:
+We'll get JDK 17 LTS from Adoptium. This will allow you to run and compile Java applications on your device. Install it with this command in your terminal:
 
 ```bash
 sudo apt install -y wget apt-transport-https gpg \
 && wget -qO - https://packages.adoptium.net/artifactory/api/gpg/key/public | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/adoptium.gpg > /dev/null \
 && echo "deb https://packages.adoptium.net/artifactory/deb $(awk -F= '/^VERSION_CODENAME/{print$2}' /etc/os-release) main" | sudo tee /etc/apt/sources.list.d/adoptium.list \
 && sudo apt update \
-&& sudo apt install temurin-21-jdk
+&& sudo apt install temurin-17-jdk
 ```
 
 ### Configure the `JAVA_HOME` environment variable
@@ -237,7 +237,7 @@ echo $JAVA_HOME
 You should see some output that looks similar to this:
 
 ```plaintext
-/usr/lib/jvm/temurin-21-jdk-amd64
+/usr/lib/jvm/temurin-17-jdk-amd64
 ```
 
 ## IntelliJ IDEA Community Edition
@@ -264,7 +264,7 @@ With a new project open, select the ☰ menu in the upper left corner of the pro
 
 ![The structure... option in the File menu.](./assets/intellij-new-project-structure.png)
 
-A dialog box will appear where you can change the default settings for new projects. Change the SDK to the **temurin-21** option. The full option may appear slightly different than the option outlined in red in the screenshot below. That's okay.
+A dialog box will appear where you can change the default settings for new projects. Change the SDK to the **temurin-17** option. The full option may appear slightly different than the option outlined in red in the screenshot below. That's okay.
 
 After you've selected the default SDK, select the **OK** button outlined in red below.
 

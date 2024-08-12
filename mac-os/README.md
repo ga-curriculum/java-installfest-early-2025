@@ -22,7 +22,7 @@ You'll install the following tools and software:
 - [Homebrew](#homebrew)
 - [Git](#git)
 - [GitHub CLI](#github-cli)
-- [JDK 21](#jdk-21)
+- [JDK 17](#jdk-17)
 - [IntelliJ CE](#intellij-idea-community-edition)
 
 ## Troubleshooting
@@ -155,13 +155,13 @@ You'll encounter a series of prompts to complete your login. Follow these steps:
 
 You should now be able to interact with General Assembly's GitHub Enterprise from the command line!
 
-## JDK 21
+## JDK 17
 
-We'll get JDK 21 LTS from Adoptium. This will allow you to run and compile Java applications on your device.
+We'll get JDK 17 LTS from Adoptium. This will allow you to run and compile Java applications on your device.
 
-If your computer has an Apple Silicon chip, download JDK 21 from [the download page](https://adoptium.net/temurin/releases/?os=mac&version=21&arch=aarch64&package=jdk). Download the `.pkg` file, not the `.tar.gz` file.
+If your computer has an Apple Silicon chip, download JDK 17 from [the download page](https://adoptium.net/temurin/releases/?os=mac&version=17&arch=aarch64&package=jdk). Download the `.pkg` file, not the `.tar.gz` file.
 
-If your computer has an Intel chip, download JDK 21 from [the download page](https://adoptium.net/temurin/releases/?os=mac&version=21&arch=x64&package=jdk). Download the `.pkg` file, not the `.tar.gz` file.
+If your computer has an Intel chip, download JDK 17 from [the download page](https://adoptium.net/temurin/releases/?os=mac&version=17&arch=x64&package=jdk). Download the `.pkg` file, not the `.tar.gz` file.
 
 Execute the downloaded file and follow the instructions to install it. There is nothing to customize.
 
@@ -186,7 +186,7 @@ The following instructions apply to the default shell for modern versions of mac
 Run this command in your terminal to set the `JAVA_HOME` environment variable in zsh:
 
 ```bash
-echo 'export JAVA_HOME="$(/usr/libexec/java_home -v 21)"' >> ~/.zshrc
+echo 'export JAVA_HOME="$(/usr/libexec/java_home -v 17)"' >> ~/.zshrc
 ```
 
 ### Confirm the `JAVA_HOME` environment variable has been set
@@ -208,7 +208,7 @@ echo $JAVA_HOME
 You should see some output that looks similar to this:
 
 ```plaintext
-/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home
+/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home
 ```
 
 ## IntelliJ IDEA Community Edition
@@ -233,7 +233,7 @@ With the IntelliJ IDEA application selected, select the **File** option from the
 
 ![The structure... option in the File menu.](./assets/intellij-new-project-structure.png)
 
-A dialog box will appear where you can change the default settings for new projects. Change the SDK to the **temurin-21** option. The full option may appear slightly different than the option outlined in red in the screenshot below. That's okay.
+A dialog box will appear where you can change the default settings for new projects. Change the SDK to the **temurin-17** option. The full option may appear slightly different than the option outlined in red in the screenshot below. That's okay.
 
 After you've selected the default SDK, select the **OK** button outlined in red below.
 

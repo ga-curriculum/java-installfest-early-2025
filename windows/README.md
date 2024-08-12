@@ -25,7 +25,7 @@ You'll install the following tools and software:
 
 - [Git and Git Bash](#git)
 - [GitHub CLI](#github-cli)
-- [JDK 21](#jdk-21)
+- [JDK 17](#jdk-17)
 - [IntelliJ CE](#intellij-idea-community-edition)
 
 ## Troubleshooting
@@ -152,15 +152,15 @@ You'll encounter a series of prompts to complete your login. Follow these steps:
 
 You should now be able to interact with General Assembly's GitHub Enterprise from the command line!
 
-## JDK 21
+## JDK 17
 
-We'll get JDK 21 LTS from Adoptium. This will allow you to run and compile Java applications on your device.
+We'll get JDK 17 LTS from Adoptium. This will allow you to run and compile Java applications on your device.
 
-Download JDK 21 from [this page](https://adoptium.net/temurin/releases/?os=windows&version=21&arch=any&package=jdk). Download the `.msi` file, not the `.zip` file.
+Download JDK 17 from [this page](https://adoptium.net/temurin/releases/?os=windows&version=17&arch=any&package=jdk). Download the `.msi` file, not the `.zip` file.
 
 Execute the downloaded file.
 
-***You will be given many prompts on features to install and choices to make while installing JDK 21. All of these may be left as their default, except for the ones below.***
+***You will be given many prompts on features to install and choices to make while installing JDK 17. All of these may be left as their default, except for the ones below.***
 
 On the **Custom Setup** step, look for the **Set or override JAVA_HOME variable** option. Select the **X** next to the option, then select the **Entire feature will be installed on the local hard drive** option from the dropdown.
 
@@ -185,7 +185,7 @@ echo $JAVA_HOME
 You should see some output that looks similar to this:
 
 ```plaintext
-C:\Program Files\Eclipse Adoptium\jdk-21.0.4.7-hotspot\
+C:\Program Files\Eclipse Adoptium\jdk-17.0.4.7-hotspot\
 ```
 
 ## IntelliJ IDEA Community Edition
@@ -226,7 +226,7 @@ With a new project open, select the ☰ menu in the upper left corner of the pro
 
 ![The structure... option in the File menu.](./assets/intellij-new-project-structure.png)
 
-A dialog box will appear where you can change the default settings for new projects. Change the SDK to the **temurin-21** option. The full option may appear slightly different than the option outlined in red in the screenshot below. That's okay.
+A dialog box will appear where you can change the default settings for new projects. Change the SDK to the **temurin-17** option. The full option may appear slightly different than the option outlined in red in the screenshot below. That's okay.
 
 After you've selected the default SDK, select the **OK** button outlined in red below.
 
