@@ -156,7 +156,7 @@ You should now be able to interact with General Assembly's GitHub Enterprise fro
 
 We'll get JDK 17 LTS from Adoptium. This will allow you to run and compile Java applications on your device.
 
-Download JDK 17 from [this page](https://adoptium.net/temurin/releases/?os=windows&version=17&arch=any&package=jdk). Download the `.msi` file, not the `.zip` file.
+Download JDK 17 from [this page](https://adoptium.net/temurin/releases/?os=windows&version=17&arch=any&package=jdk). Download the `.msi` file, not the `.zip` file. 
 
 Execute the downloaded file.
 
@@ -185,7 +185,7 @@ echo $JAVA_HOME
 You should see some output that looks similar to this:
 
 ```plaintext
-C:\Program Files\Eclipse Adoptium\jdk-17.0.4.7-hotspot\
+C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot\
 ```
 
 ## IntelliJ IDEA Community Edition
