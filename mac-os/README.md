@@ -25,6 +25,8 @@ You'll install the following tools and software:
 - [JDK 17](#jdk-17)
 - [IntelliJ CE](#intellij-idea-community-edition)
 
+Finally, you'll [set up the directory structure used in the course](#set-up-the-directory-structure-used-in-the-course).
+
 ## Troubleshooting
 
 If you run into issues during Installfest, please reach out to your Installfest point of contact.
@@ -238,6 +240,25 @@ A dialog box will appear where you can change the default settings for new proje
 After you've selected the default SDK, select the **OK** button outlined in red below.
 
 ![Select the default SDK.](./assets/intellij-default-sdk.png)
+
+## Set up the directory structure used in the course
+
+Finally, let's set up the directory structure you'll use in the course. In your terminal, run these commands:
+
+```bash
+mkdir ~/code
+mkdir ~/code/ga
+mkdir ~/code/ga/labs ~/code/ga/lectures ~/code/ga/projects ~/code/ga/sandbox
+```
+
+Note the four directories we're creating in the <code class="filepath">~/code/ga</code> directory:
+
+- <code class="filepath">lecture</code>: for your work while following along with the lecture content.
+- <code class="filepath">labs</code>: for the lab assignments you create.
+- <code class="filepath">projects</code>: for any projects you build in the course.
+- <code class="filepath">sandbox</code>: for any quick experimentation.
+
+All lecture material will assume you have this base directory structure, but if you'd like, you may further divide these directories based on topic, day/week, or any other method you choose.
 
 ## You did it!
 
