@@ -224,7 +224,7 @@ Finally, you'll arrive at a page titled **Welcome to IntelliJ IDEA**. Start a ne
 
 ### Set the default project SDK
 
-With a new project open, select the ☰ menu in the upper left corner of the project window, which will reveal the **File** option. Find the **New Projects Setup** option and then choose **Structure...**. This is shown in the screenshot below.
+Select the ☰ menu in the upper left corner of the project window, which will reveal the menu bar. Select the **File** option. Find the **New Projects Setup** option and then choose **Structure...**.This is shown in the screenshot below.
 
 ![The structure... option in the File menu.](./assets/intellij-new-project-structure.png)
 
@@ -233,6 +233,16 @@ A dialog box will appear where you can change the default settings for new proje
 After you've selected the default SDK, select the **OK** button outlined in red below.
 
 ![Select the default SDK.](./assets/intellij-default-sdk.png)
+
+### Set the default terminal shell
+
+Select the ☰ menu in the upper left corner of the project window, which will reveal the menu bar. Select the **File** option. Choose **Settings...**.
+
+A new **Settings** window will appear. On the left side, expand the **Tools** section, and select the **Terminal** option.
+
+In the right side of the window you'll see various terminal settings you can configure. In the **Application Settings** section find the **Shell path** dropdown and select the option ending with `Git\bin\bash.exe`. After you've set this, select the **OK** button. These steps are shown in the screenshot below.
+
+![Changing the default shell to Git Bash.](./assets/intellij-terminal-settings.png)
 
 ## Set up the directory structure used in the course
 

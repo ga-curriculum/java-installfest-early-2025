@@ -262,7 +262,7 @@ Finally, you'll arrive at a page titled **Welcome to IntelliJ IDEA**. Start a ne
 
 ### Set the default project SDK
 
-With a new project open, select the ☰ menu in the upper left corner of the project window, which will reveal the **File** option. Find the **New Projects Setup** option and then choose **Structure...**. This is shown in the screenshot below.
+With a new project open, Select the ☰ menu in the upper left corner of the project window, which will reveal the menu bar. Select the **File** option. Find the **New Projects Setup** option and then choose **Structure...**.This is shown in the screenshot below.
 
 ![The structure... option in the File menu.](./assets/intellij-new-project-structure.png)
 
