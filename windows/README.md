@@ -158,7 +158,7 @@ You should now be able to interact with General Assembly's GitHub Enterprise fro
 
 We'll get JDK 17 LTS from Adoptium. This will allow you to run and compile Java applications on your device.
 
-Download JDK 17 from [this page](https://adoptium.net/temurin/releases/?os=windows&version=17&arch=any&package=jdk). Download the `.msi` file, not the `.zip` file. 
+Download JDK 17 from [this page](https://adoptium.net/temurin/releases/?os=windows&version=17&arch=any&package=jdk). Download the `.msi` file, not the `.zip` file.
 
 Execute the downloaded file.
 
