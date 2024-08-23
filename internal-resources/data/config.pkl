@@ -42,6 +42,18 @@ courses {
     }
   }
   new {
+    // Java Development Apprenticeship - Prework
+    name = "jda-prework"
+    isHeaderMicrolessonNavShown = false
+    isFooterLessonNavShown = false
+    microlessons {
+      // add microlessons here, in the order they should be delivered
+      mls.macOS
+      mls.windows
+      mls.ubuntu
+    }
+  }
+  new {
     // Do not remove this fallback course!
     name = "fallback"
     isHeaderMicrolessonNavShown = false
