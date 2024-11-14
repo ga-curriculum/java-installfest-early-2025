@@ -11,9 +11,9 @@ Welcome to Installfest, where we'll set up the development environment you'll us
 
 | Lesson | Skills |
 | ------ | ------ |
-| [macOS](../mac-os/README.md)    | Configuring a development environment in macOS.                     |
-| [Windows](../windows/README.md) | Configuring a development environment in Windows 10 and Windows 11. |
-| [Ubuntu](../ubuntu/README.md)   | Configuring a development environment in Ubuntu 22.04 LTS.          |
+| [macOS](../mac-os/README.md)    | Configuring a development environment in macOS.            |
+| [Windows](../windows/README.md) | Configuring a development environment in Windows 11.       |
+| [Ubuntu](../ubuntu/README.md)   | Configuring a development environment in Ubuntu 22.04 LTS. |
 
 ## References
 

@@ -5,7 +5,7 @@
 
 ## What you need to begin *(you must read this, do not skip this, this is important)*
 
-- ***A device running macOS 14 Sonoma or macOS 13 Ventura.***
+- ***A device running macOS 15 Sequoia or macOS 14 Sonoma.***
 - At least 10GB of free hard drive space.
 - At least 8GB of RAM. 16GB of RAM or more is preferable and will improve your learning experience.
 - A user account with administrative privilege to your local installation of macOS.

@@ -5,9 +5,9 @@
 
 ## What you need to begin *(you must read this, do not skip this, this is important)*
 
-- ***A device running Windows 11 version 23H2 (OS Build 22631 or greater) or Windows 10 version 22H2 (OS Build 19045 or greater).***
+- ***A device running Windows 11 version 23H2 (OS Build 22631 or greater).***
 
-  To find your Windows version and build number, use <kbd>⊞ Windows</kbd> + <kbd>R</kbd> on your keyboard, type **`winver`**, and select **OK**. You'll see a dialog window like the one below (it will look slightly different in Windows 10). Note the Version: 23H2.
+  To find your Windows version and build number, use <kbd>⊞ Windows</kbd> + <kbd>R</kbd> on your keyboard, type **`winver`**, and select **OK**. You'll see a dialog window like the one below. Note the Version: 23H2.
 
   ![A dialog box demonstrating a Windows 11 PC running version 23H2.](./assets/winver-dialog.png)
 - At least 10GB of free hard drive space.

@@ -11,9 +11,9 @@ Welcome to Installfest, where we'll set up the development environment you'll us
 
 | Lesson | Skills |
 | ------ | ------ |
-| [macOS](./mac-os/README.md)    | Configuring a development environment in macOS.                     |
-| [Windows](./windows/README.md) | Configuring a development environment in Windows 10 and Windows 11. |
-| [Ubuntu](./ubuntu/README.md)   | Configuring a development environment in Ubuntu 22.04 LTS.          |
+| [macOS](./mac-os/README.md)    | Configuring a development environment in macOS.            |
+| [Windows](./windows/README.md) | Configuring a development environment in Windows 11.       |
+| [Ubuntu](./ubuntu/README.md)   | Configuring a development environment in Ubuntu 22.04 LTS. |
 
 ## References
 
@@ -25,6 +25,13 @@ Welcome to Installfest, where we'll set up the development environment you'll us
 
 - None
 
+### Course landing pages
+
+- [JCD - Java Career Development Program](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-installfest-early-2025/canvas-landing-pages/jcd.html)
+- [JCD Prework - Java Career Development Program Prework](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-installfest-early-2025/canvas-landing-pages/jcd-prework.html)
+- [JSC - Java Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-installfest-early-2025/canvas-landing-pages/jcd.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-installfest-early-2025/canvas-landing-pages/fallback.html)
+
 ### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
@@ -35,4 +42,4 @@ Welcome to Installfest, where we'll set up the development environment you'll us
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
