@@ -27,10 +27,10 @@ Welcome to Installfest, where we'll set up the development environment you'll us
 
 ### Course landing pages
 
-- [JCD - Java Career Development Program](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-installfest-early-2025/canvas-landing-pages/jcd.html)
-- [JCD Prework - Java Career Development Program Prework](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-installfest-early-2025/canvas-landing-pages/jcd-prework.html)
-- [JSC - Java Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-installfest-early-2025/canvas-landing-pages/jcd.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-installfest-early-2025/canvas-landing-pages/fallback.html)
+- [JCD - Java Career Development Program](https://ga-curriculum.github.io/java-installfest-early-2025/canvas-landing-pages/jcd.html)
+- [JCD Prework - Java Career Development Program Prework](https://ga-curriculum.github.io/java-installfest-early-2025/canvas-landing-pages/jcd-prework.html)
+- [JSC - Java Short Course](https://ga-curriculum.github.io/java-installfest-early-2025/canvas-landing-pages/jcd.html)
+- [Fallback](https://ga-curriculum.github.io/java-installfest-early-2025/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -42,4 +42,4 @@ Welcome to Installfest, where we'll set up the development environment you'll us
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
