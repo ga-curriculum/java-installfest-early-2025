@@ -104,7 +104,7 @@ git config --global user.name "User Name"
 
 Next, use the below command to add an email to Git, which will be used to identify your commits.
 
-Replace `user@email.com` with the email address associated with your [`https://git.generalassemb.ly`](https://git.generalassemb.ly) account. Ensure you leave the quotes surrounding your email. There will not be any output from this command.
+Replace `user@email.com` with the email address associated with your GitHub account. Ensure you leave the quotes surrounding your email. There will not be any output from this command.
 
 ```bash
 git config --global user.email "user@email.com"
@@ -156,7 +156,7 @@ Then, repeat the installation steps above.
 
 ### Authenticate with `gh`
 
-Once it is installed, you'll use it to log in to your General Assembly GitHub Enterprise account from the command line. Use this command:
+Once it is installed, you'll use it to log in to your GitHub account from the command line. Use this command:
 
 ```bash
 gh auth login
@@ -164,25 +164,24 @@ gh auth login
 
 You'll encounter a series of prompts to complete your login. Follow these steps:
 
-1. You will be prompted to log in to a GitHub.com account or a GitHub Enterprise account. Select the **GitHub Enterprise Server** option.
-2. Use `git.generalassemb.ly` as the GHE hostname.
+1. You will be prompted to log in to a GitHub.com account or a GitHub Enterprise account. Select the **GitHub.com** option.
 3. Choose **HTTPS** as the preferred protocol for Git operations.
 4. When asked to authenticate Git with your GitHub credentials, press <kbd>Y</kbd> and then <kbd>↩ Enter</kbd>.
 5. Select the **Login with a web browser** option when asked how you would like to authenticate.
-6. Copy the one-time code from your terminal, then press the <kbd>↩ Enter</kbd> key to open `https://git.generalassemb.ly/login/device` in your browser.
+6. Copy the one-time code from your terminal, then press the <kbd>↩ Enter</kbd> key to open `https://github.com/login/device` in your browser.
 7. Paste the code you copied from the terminal, and hit continue.
 8. Authorize the GitHub CLI when asked.
-9. You may be asked to confirm your GHE account password. Do so.
+9. You may be asked to confirm your GitHub password. Do so.
 10. The CLI app should update automatically to confirm that you're logged in. It should look something like this:
 
     ```plaintext
     ✓ Authentication complete.
-    - gh config set -h git.generalassemb.ly git_protocol https
+    - gh config set -h github.com git_protocol https
     ✓ Configured git protocol
     ✓ Logged in as student
     ```
 
-You should now be able to interact with General Assembly's GitHub Enterprise from the command line!
+You should now be able to interact with GitHub from the command line!
 
 ## JDK 17
 
